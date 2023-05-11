@@ -1,0 +1,34 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+header{
+    background-color:rgb(18, 58, 58);
+    padding: 30px;
+}
+h1{
+    text-align: center;
+}
+ul,li{
+    list-style-type: none;
+    display: inline-flex;
+    margin-right: 20px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#links{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+#imagens{
+    margin-top: 30px;
+    margin-left: 35%;
+}
+footer{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
