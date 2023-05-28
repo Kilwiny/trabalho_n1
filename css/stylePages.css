@@ -53,7 +53,20 @@ nav{
     background-color:rgba(0, 0,
     0, 0.179);
     padding: 10px;
+    animation:  animar alternate 1s;
 }
+
+@keyframes animar {
+    from{
+        transform:translateY(0px);
+    }
+
+    to{
+        transform: translateY(20px);
+    }
+
+}
+
 footer{
     text-align: center;
     background-color:  #364385;
